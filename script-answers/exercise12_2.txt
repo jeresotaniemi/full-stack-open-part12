@@ -1,0 +1,16 @@
+Script started on 2025-12-09 15:26:05+02:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="120" LINES="30"]
+[?2004h]0;jeres@DESKTOP-9S37B6N: ~[01;32mjeres@DESKTOP-9S37B6N[00m:[01;34m~[00m$ exitdocker container run -it ubuntu bash
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cexit[Kcho "hello"[4Pshutdown[3Pclosewsl --shutdowndocker run --helpcontainer run hello-world[15Prun --help[3Pwsl --shutdown[9Pcloseshutdownecho "hello"xit[Kdocker container run -it ubuntu bash
+[?2004l
+[?2004h]0;root@02fb63a504f4: /root@02fb63a504f4:/# mk  mkdir /usr/a src/app
+[?2004l
+[?2004h]0;root@02fb63a504f4: /root@02fb63a504f4:/# touch /usr/src/app/index.js
+[?2004l
+[?2004h]0;root@02fb63a504f4: /root@02fb63a504f4:/# [Kexit
+[?2004l
+exit
+[?2004h]0;jeres@DESKTOP-9S37B6N: ~[01;32mjeres@DESKTOP-9S37B6N[00m:[01;34m~[00m$ exit
+[?2004l
+exit
+
+Script done on 2025-12-09 15:26:47+02:00 [COMMAND_EXIT_CODE="0"]
