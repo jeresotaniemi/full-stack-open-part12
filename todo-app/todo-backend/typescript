@@ -1,0 +1,5 @@
+Script started on 2025-12-11 16:39:11+02:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="145" LINES="30"]
+[?2004h]0;jeres@DESKTOP-9S37B6N: ~/todo-app/todo-backend[01;32mjeres@DESKTOP-9S37B6N[00m:[01;34m~/todo-app/todo-backend[00m$ exitrm compose.ymlnano docker-compose.yml[6Pcompose.yml docker compose -f docker-compose.yml down[7P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[11@docker-compose.dev[C[C[C[C[C[C[C[C[Cdown[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kexit
+[?2004lexit
+
+Script done on 2025-12-11 16:39:17+02:00 [COMMAND_EXIT_CODE="0"]

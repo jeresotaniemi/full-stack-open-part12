@@ -1,0 +1,5 @@
+mongo_data/
+mongo_prod_data/
+redis_data/
+redis_prod_data/
+node_modules/
